@@ -1,4 +1,4 @@
-name: Alpha Build
+name: Alpha Build Manually (Without signature)
 
 on:
   workflow_dispatch:
